@@ -1,0 +1,20 @@
+
+.song-row {
+	background-color: #ffd6f6;
+}
+
+.skipped-row {
+	background-color: #eefbba;
+}
+
+.audio-row {
+	background-color: #e8e8e8;
+}
+
+.jingle-row {
+	background-color: #dcffba;
+}
+
+.chosen-program-row {
+	background-color: #ecfff6;
+}
