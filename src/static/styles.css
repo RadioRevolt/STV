@@ -18,3 +18,7 @@
 .chosen-program-row {
 	background-color: #ecfff6;
 }
+
+.show-row {
+	cursor: pointer;
+}
